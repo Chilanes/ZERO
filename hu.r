@@ -1,0 +1,2 @@
+myString <- "furr"
+print (myString)
